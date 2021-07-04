@@ -3,14 +3,19 @@ PrivacyPolicy
 
 Datenschutzerklärung (gemäß Art. 13 DSGVO)
 
-ÜBERSICHT
+ÜBERSICHT:
+
 Von dem Alexa Skill „Inoffizieller Vertretungsplan für das OHG Springe“ werden Sie gebeten, 
 Daten einzugeben, die zur Benutzung des Alexa Skills notwendig sind. Diese Daten werden in 
 Ihrem Benutzerprofil gespeichert, das vom Alexa Skill, verwendet wird.
 
+
 GESPEICHERTE DATEN:
+
 In Ihrem Benutzerprofil werden die folgenden Daten gespeichert:
+
 • Schulklasse
+
 
 BENUTZERIDENTIFIZIERUNG:
 
