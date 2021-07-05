@@ -26,6 +26,7 @@ aktivieren wird Ihnen eine neue „Skill User ID“ zugewiesen. Es werden keine 
 Ihrem Benutzerprofil abgespeichert.
 
 RECHT AUF DATENLÖSCHUNG:
+
 Sie können jederzeit eine vollständige Löschung Ihres Benutzerprofils beantragen. 
 Schicken Sie mir bitte dazu eine E-Mail mit der Anweisung, Ihr Benutzerprofil zu 
 löschen und der letzten Urzeit und Datum, an der Sie Ihre Klasse verändert haben 
