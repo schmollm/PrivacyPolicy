@@ -5,7 +5,7 @@ Datenschutzerklärung (gemäß Art. 13 DSGVO)
 
 ÜBERSICHT:
 
-Von dem Alexa Skill „Inoffizieller Vertretungsplan für das OHG Springe“ werden Sie gebeten, 
+Von dem Alexa Skill „Vertretungsplan für das OHG Springe“ werden Sie gebeten, 
 Daten einzugeben, die zur Benutzung des Alexa Skills notwendig sind. Diese Daten werden in 
 Ihrem Benutzerprofil gespeichert, das vom Alexa Skill, verwendet wird.
 
@@ -29,5 +29,5 @@ RECHT AUF DATENLÖSCHUNG:
 
 Sie können jederzeit eine vollständige Löschung Ihres Benutzerprofils beantragen. 
 Schicken Sie mir bitte dazu eine E-Mail mit der Anweisung, Ihr Benutzerprofil zu 
-löschen und der letzten Urzeit und Datum, an der Sie Ihre Klasse verändert haben 
+löschen und den letzten Zeitpunkt (Datum und Urzeit), an dem Sie Ihre gespeicherte Klasse verändert haben 
 an moritz.schmoll@outlook.com.
