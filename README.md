@@ -29,5 +29,5 @@ RECHT AUF DATENLÖSCHUNG:
 
 Sie können jederzeit eine vollständige Löschung Ihres Benutzerprofils beantragen. 
 Schicken Sie mir bitte dazu eine E-Mail mit der Anweisung, Ihr Benutzerprofil zu 
-löschen und den letzten Zeitpunkt (Datum und Urzeit), an dem Sie Ihre gespeicherte Klasse verändert haben 
+löschen, der gespeicherten Klasse und dem letzten Zeitpunkt (Datum und Urzeit), zu dem Sie Ihre gespeicherte Klasse verändert haben 
 an moritz.schmoll@outlook.com.
