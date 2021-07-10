@@ -19,10 +19,10 @@ In Ihrem Benutzerprofil werden die folgenden Daten gespeichert:
 
 BENUTZERIDENTIFIZIERUNG:
 
-Jeder Benutzer, der den Skill aktiviert bekommt eine individuelle „Skill User ID“ von Amazon Alexa zugewiesen. 
+Jeder Benutzer, der den Skill aktiviert, bekommt eine individuelle „Skill User ID“ von Amazon Alexa zugewiesen. 
 Ihr Benutzerprofil wird unter dieser ID abgespeichert. Ein Rückschluss von dieser „Skill User ID“ auf Ihre Identität
 oder ihren Amazon Benutzernamen ist nach meiner Information nicht möglich. Wenn Sie den Skill deaktivieren und neu
-aktivieren wird Ihnen eine neue „Skill User ID“ zugewiesen. Es werden keine IP Adressen oder Adressinformationen in
+aktivieren, wird Ihnen eine neue „Skill User ID“ zugewiesen. Es werden keine IP Adressen oder Adressinformationen in
 Ihrem Benutzerprofil abgespeichert.
 
 RECHT AUF DATENLÖSCHUNG:
