@@ -1,7 +1,4 @@
-# PrivacyPolicy
-PrivacyPolicy
-
-Datenschutzerklärung (gemäß Art. 13 DSGVO)
+# Datenschutzerklärung (gemäß Art. 13 DSGVO)
 
 ÜBERSICHT:
 
@@ -30,4 +27,4 @@ RECHT AUF DATENLÖSCHUNG:
 Sie können jederzeit eine vollständige Löschung Ihres Benutzerprofils beantragen. 
 Schicken Sie mir bitte dazu eine E-Mail mit der Anweisung, Ihr Benutzerprofil zu 
 löschen, der gespeicherten Klasse und dem letzten Zeitpunkt (Datum und Urzeit), zu dem Sie Ihre gespeicherte Klasse verändert haben 
-an moritz.schmoll@outlook.com.
+an privacy@moritzschmoll.de.
